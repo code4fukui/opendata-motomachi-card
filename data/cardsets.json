@@ -1,0 +1,177 @@
+{
+  "cardset_topic": {
+    "group": [
+      "guidance",
+      "explanation",
+      "extra"
+    ],
+    "label": {
+      "explanation": "解説",
+      "guidance": "案内",
+      "extra": "補足"
+    },
+    "title": {
+      "explanation": [
+        "Explanation",
+        ":「解説」"
+      ],
+      "guidance": [
+        "Guidance",
+        ":「案内」"
+      ],
+      "extra": [
+        "Extra Topics",
+        ":「補足」"
+      ]
+    },
+    "style": {
+      "explanation": "background-color:#9fcf42; border-color:#6d9424;",
+      "guidance": "background-color:#8fe4dc; border-color:#26a69c;",
+      "extra": "background-color:#ffdead; border-color:#d2b674;"
+    }
+  },
+  "cardsets": [
+    {
+      "id": "G1-facil",
+      "label": "元町施設",
+      "group": "guidance",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "f1",
+        "f2a",
+        "f2b",
+        "f3",
+        "f4",
+        "c3",
+        "f6",
+        "f7",
+        "f8"
+      ]
+    },
+    {
+      "id": "G2-comp",
+      "label": "今昔対比",
+      "group": "guidance",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "c1",
+        "c1x",
+        "c1a",
+        "c1xa",
+        "c2",
+        "c2x",
+        "f5",
+        "c3x",
+        "f6",
+        "c4x",
+        "c5",
+        "ex2b"
+      ]
+    },
+    {
+      "id": "G3-4s",
+      "label": "春夏秋冬",
+      "group": "guidance",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "s1",
+        "s2",
+        "s5",
+        "s3",
+        "s6",
+        "s4"
+      ]
+    },
+    {
+      "id": "E1-est",
+      "label": "創設事業",
+      "group": "explanation",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "es1",
+        "es2",
+        "es3",
+        "es4",
+        "es5",
+        "es6",
+        "es7",
+        "c3x",
+        "es9",
+        "es10"
+      ]
+    },
+    {
+      "id": "E2-exp1",
+      "label": "第一次拡張",
+      "group": "explanation",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "ex1a",
+        "ex1b",
+        "ex1c",
+        "ex1d",
+        "c4x"
+      ]
+    },
+    {
+      "id": "E3-exp2",
+      "label": "第二次拡張",
+      "group": "explanation",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "ex2a",
+        "ex2b",
+        "ex2c",
+        "ex2d",
+        "ex2e",
+        "ex2f"
+      ]
+    },
+    {
+      "id": "X1-100",
+      "label": "百周年",
+      "group": "extra",
+      "style": "background-color:#f3eba5;color:#dc143c;font-weight:bold;",
+      "index": 0,
+      "card_list": [
+        "ex2b",
+        "ex2e",
+        "ex2c",
+        "f2b"
+      ]
+    },
+    {
+      "id": "X2-first",
+      "label": "日本初",
+      "group": "extra",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "xf-1",
+        "c5",
+        "es3",
+        "c3x",
+        "es2"
+      ]
+    },
+    {
+      "id": "X3-transport",
+      "label": "輸送手段",
+      "group": "extra",
+      "style": "",
+      "index": 0,
+      "card_list": [
+        "xt-1",
+        "xt-2",
+        "xt-3",
+        "xt-4"
+      ]
+    }
+  ]
+}

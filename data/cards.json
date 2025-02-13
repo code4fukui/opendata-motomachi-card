@@ -1,0 +1,1151 @@
+{
+  "cardinfo": {
+    "series": "函館市企業局 元町配水場",
+    "author": "監修・資料提供：函館市企業局",
+    "front_title": false
+  },
+  "digest": {
+    "title": "元町配水場について",
+    "text": "元町配水場は、明治２２年(1889)、横浜に次いで日本で2番目の近代水道として誕生しました。日本人が初めて設計・監督し、この時に建設された「中区配水地」は、120年以上の歳月を経過した現在もその役割を果たす現役では日本最古の配水地です。",
+    "link_text": "",
+    "link": ""
+  },
+  "cards": [
+    {
+      "id": "f1",
+      "no": "45",
+      "title": "元町配水場管理事務所",
+      "remark": false,
+      "photo_id": "01-01",
+      "cx": 6,
+      "cy": 134,
+      "cw": 1103,
+      "ch": 649,
+      "portrait": false,
+      "text": "レンガ造りの管理事務所は､函館市の景観形成指定建設物です。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c1",
+        "es10"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f2",
+      "no": "7",
+      "title": "噴水塔と噴水",
+      "remark": false,
+      "photo_id": "01-02",
+      "cx": 50,
+      "cy": 137,
+      "cw": 860,
+      "ch": 506,
+      "portrait": false,
+      "text": "上段に噴水塔、下段に噴水、噴水の近くに共用栓を利用した水飲み場が設置されている。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f2a",
+        "f2b",
+        "f3"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f2a",
+      "no": "23",
+      "title": "噴水塔（レプリカ）",
+      "remark": false,
+      "photo_id": "01-02a",
+      "cx": 390,
+      "cy": 150,
+      "cw": 1100,
+      "ch": 1250,
+      "portrait": true,
+      "text": "上段の噴水は、明治２２年(1889年)に鋳鉄管を納入した東京のイリス商社から寄贈された噴水のレプリカである。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "s3",
+        "c2",
+        "f2b"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f2b",
+      "no": "24",
+      "title": "下段の噴水",
+      "remark": false,
+      "photo_id": "01-02b",
+      "cx": 510,
+      "cy": 985,
+      "cw": 850,
+      "ch": 500,
+      "portrait": false,
+      "text": "下段の噴水は、これからも函館の水道が清水のようにこんこんと湧き出て永遠に街を潤していくことを願い、平成元年（1989）函館水道創設100周年を記念して建設された。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c2",
+        "f2a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f3",
+      "no": "52",
+      "title": "取水栓",
+      "remark": false,
+      "photo_id": "01-03",
+      "cx": 160,
+      "cy": 20,
+      "cw": 511,
+      "ch": 580,
+      "portrait": true,
+      "text": "噴水の近くに共用栓を利用した水飲み場が設置されている。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f2",
+        "c2"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f4",
+      "no": "57",
+      "title": "１００年桜",
+      "remark": false,
+      "photo_id": "01-04",
+      "cx": 540,
+      "cy": 5,
+      "cw": 344,
+      "ch": 390,
+      "portrait": true,
+      "text": "高区配水池の完成を記念して敷地内に植えられた２本のソメイヨシノは樹齢100年以上と言われ、春には爛漫の桜花が咲き乱れる。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "s2"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f5",
+      "no": "11",
+      "title": "元町中区配水池",
+      "remark": false,
+      "photo_id": "02-01",
+      "cx": 259,
+      "cy": 420,
+      "cw": 1203,
+      "ch": 708,
+      "portrait": false,
+      "text": "現役では日本最古の配水池であり、1985年に近代水道百選に選定、2001年に土木学会選奨土木遺産および2008年に近代化産業遺産群に認定されている。（有効容量4,743ｍ3）",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c3",
+        "c3x",
+        "ex2e",
+        "f8"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f6",
+      "no": "12",
+      "title": "元町高区配水池",
+      "remark": false,
+      "photo_id": "02-03",
+      "cx": 428,
+      "cy": 477,
+      "cw": 865,
+      "ch": 509,
+      "portrait": false,
+      "text": "配水池に貯める飲料水は、赤川町にある赤川高区浄水場で造られ、直径600mmの鋳鉄管で、約12.6㎞の距離を「逆サイホンの原理」を利用した自然流下によって送られている。（有効容量2,765ｍ3）",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c4x",
+        "ex2f"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f7",
+      "no": "35",
+      "title": "展望台",
+      "remark": false,
+      "photo_id": "01-05",
+      "cx": 300,
+      "cy": 40,
+      "cw": 952,
+      "ch": 560,
+      "portrait": false,
+      "text": "令和元年(2019)に完成した展望広場には市街地や函館港を一望できる物見台やベンチが設けられている。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f9"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f8",
+      "no": "26",
+      "title": "中区配水池内部",
+      "remark": false,
+      "photo_id": "02-02",
+      "cx": 530,
+      "cy": 147,
+      "cw": 406,
+      "ch": 239,
+      "portrait": false,
+      "text": "大正１１(1922)年の第２次拡張事業において覆蓋（おうがい）を設置した後の配水池の内部。<br>（一般公開はしておりません）",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2e",
+        "c3x",
+        "f5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "f9",
+      "no": "56",
+      "title": "元町教会群",
+      "remark": false,
+      "photo_id": "02-01",
+      "cx": 38,
+      "cy": 420,
+      "cw": 364,
+      "ch": 214,
+      "portrait": false,
+      "text": "管理事務所の先に函館聖ヨハネ教会と函館ハリストス正教会が見出せる。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f1",
+        "f5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c1",
+      "no": "13",
+      "title": "元町配水場管理事務所",
+      "remark": false,
+      "photo_id": "01-01",
+      "cx": 397,
+      "cy": 147,
+      "cw": 568,
+      "ch": 645,
+      "portrait": true,
+      "text": "管理事務所は､明治２２年(1889)の創業当時の番人詰所を改修して使用している。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f1",
+        "es10",
+        "c1x"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c1a",
+      "no": "34",
+      "title": "管理事務所入口",
+      "remark": false,
+      "photo_id": "01-01",
+      "cx": 652,
+      "cy": 211,
+      "cw": 157,
+      "ch": 178,
+      "portrait": true,
+      "text": "管理事務所の入口には旧函館市水道局（現 企業局）の記章が見られる。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c1xa",
+        "c1b",
+        "f1"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c1b",
+      "no": "8",
+      "title": "旧函館市水道局の記章",
+      "remark": false,
+      "photo_id": "01-09",
+      "cx": 467,
+      "cy": 281,
+      "cw": 268,
+      "ch": 304,
+      "portrait": true,
+      "text": "旧函館市水道局（現 企業局）の記章は、「函」と「水」の文字を組み合せた意匠で「函館の水道」を象徴している。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c1a",
+        "c1xa"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c1x",
+      "no": "32",
+      "title": "元町低区配水池番人詰所",
+      "remark": false,
+      "photo_id": "01-01x",
+      "cx": 187,
+      "cy": 89,
+      "cw": 79,
+      "ch": 89,
+      "portrait": true,
+      "text": "明治２１年から２２年の創設事業(1888-1889)により建設された番人詰所。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es10",
+        "f1",
+        "c1"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c1xa",
+      "no": "33",
+      "title": "元町低区配水池番人詰所の入口",
+      "remark": false,
+      "photo_id": "01-01x",
+      "cx": 196,
+      "cy": 84,
+      "cw": 57,
+      "ch": 34,
+      "portrait": false,
+      "text": "番人詰所の入口には現在と同じ記章が見られる。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c1a",
+        "c1b",
+        "f1"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c2",
+      "no": "41",
+      "title": "噴水塔と噴水",
+      "remark": false,
+      "photo_id": "01-02",
+      "cx": 329,
+      "cy": 333,
+      "cw": 438,
+      "ch": 258,
+      "portrait": false,
+      "text": "噴水は「逆サイフォンの原理」によりポンプを使わずに水を噴き上げている。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f2a",
+        "f2b",
+        "s1"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c2x",
+      "no": "21",
+      "title": "創設当時の噴水",
+      "remark": false,
+      "photo_id": "01-02c",
+      "cx": 139,
+      "cy": 123,
+      "cw": 430,
+      "ch": 253,
+      "portrait": false,
+      "text": "明治２２年（1889）にイリス商会から噴水塔が寄贈された。",
+      "link_text": "",
+      "link_url": "",
+      "association": [],
+      "option": ""
+    },
+    {
+      "id": "c3",
+      "no": "1",
+      "title": "元町中区配水池",
+      "remark": false,
+      "photo_id": "03-00",
+      "cx": 480,
+      "cy": 2070,
+      "cw": 935,
+      "ch": 550,
+      "portrait": false,
+      "text": "昭和24年(1949)における第4次拡張事業に伴う認可申請において､元町地区の第1低区配水区域は中区配水区域に改められ、元町低区配水池が元町中区配水池に改称された。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f5",
+        "f9",
+        "xf-2",
+        "f8"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c3x",
+      "no": "22",
+      "title": "元町低区配水池（築造時）",
+      "remark": false,
+      "photo_id": "02-04",
+      "cx": 225,
+      "cy": 353,
+      "cw": 685,
+      "ch": 403,
+      "portrait": false,
+      "text": "明治２２年(1889)に完成した日本人の設計による日本で最初の配水池。築造時には覆蓋（おおがい）が設置されていなかった。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2e",
+        "f5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c3xa",
+      "no": "3",
+      "title": "元町低区配水池（レベル調整写真）",
+      "remark": false,
+      "photo_id": "02-04a",
+      "cx": 225,
+      "cy": 353,
+      "cw": 685,
+      "ch": 403,
+      "portrait": false,
+      "text": "元町低区配水区域は、大正１１年(1922)の赤川低区配水池建設時に第1低区配水区域となった。その後、昭和２４年(1949)に中区配水区域に改められ、配水池も中区配水池となった。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c3x",
+        "f5",
+        "c3"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c4x",
+      "no": "48",
+      "title": "元町高区配水池（築造時）",
+      "remark": false,
+      "photo_id": "02-06",
+      "cx": 217,
+      "cy": 359,
+      "cw": 457,
+      "ch": 269,
+      "portrait": false,
+      "text": "明治２７年から２９年(1894-1896)の第１次拡張事業において、函館山山麓の標高91m付近に１面１池の配水池を築造（明治２８年完成）。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2f",
+        "f6"
+      ],
+      "option": ""
+    },
+    {
+      "id": "c5",
+      "no": "4",
+      "title": "現在の笹流ダム",
+      "remark": false,
+      "photo_id": "04-01a",
+      "cx": 30,
+      "cy": 248,
+      "cw": 389,
+      "ch": 229,
+      "portrait": false,
+      "text": "大正10年(1921)着工、大正12年(1923)に完成した日本初のバットレスダム。北海道唯一のバットレスダムとして貴重な構造物のため、昭和58年から60年(1983-1990)にかけ、できるだけ原形を保つよう補修した。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2b"
+      ],
+      "option": ""
+    },
+    {
+      "id": "s1",
+      "no": "53",
+      "title": "桜咲く元町配水場の噴水",
+      "remark": false,
+      "photo_id": "01-06",
+      "cx": 350,
+      "cy": 172,
+      "cw": 719,
+      "ch": 423,
+      "portrait": false,
+      "text": "【春】<br>開放時間<ul><li>４月第３土曜日から８月３１日まで</li><li>午前９時から午後６時３０分</li></ul>",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c2"
+      ],
+      "option": ""
+    },
+    {
+      "id": "s2",
+      "no": "6",
+      "title": "１００年桜",
+      "remark": false,
+      "photo_id": "01-04",
+      "cx": 18,
+      "cy": 18,
+      "cw": 887,
+      "ch": 522,
+      "portrait": false,
+      "text": "高区配水池の完成を記念して敷地内に植えられた２本のソメイヨシノは樹齢100年以上と言われ、春には爛漫の桜花が咲き乱れます。<br>６月以降は構内開放範囲を制限するため行くことができません。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f4"
+      ],
+      "option": ""
+    },
+    {
+      "id": "s3",
+      "no": "42",
+      "title": "夏の元町配水場",
+      "remark": false,
+      "photo_id": "01-07",
+      "cx": 162,
+      "cy": 125,
+      "cw": 616,
+      "ch": 700,
+      "portrait": true,
+      "text": "【夏】<br>夏には、遠足等で小学生が訪れ、水に触れ暑さを和らげます。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f2a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "s4",
+      "no": "36",
+      "title": "冬の元町配水場",
+      "remark": false,
+      "photo_id": "01-08",
+      "cx": 312,
+      "cy": 435,
+      "cw": 661,
+      "ch": 389,
+      "portrait": false,
+      "text": "【冬】積雪時の配水場の風景。<br>１１月２４日以降は，開放をしておりません。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f5",
+        "f8"
+      ],
+      "option": ""
+    },
+    {
+      "id": "s5",
+      "no": "46",
+      "title": "春の笹流ダム",
+      "remark": false,
+      "photo_id": "04-01b",
+      "cx": 315,
+      "cy": 25,
+      "cw": 1232,
+      "ch": 1400,
+      "portrait": true,
+      "text": "春の笹流ダム前広場。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c5",
+        "s6"
+      ],
+      "option": ""
+    },
+    {
+      "id": "s6",
+      "no": "47",
+      "title": "秋の笹流ダム",
+      "remark": false,
+      "photo_id": "04-01c",
+      "cx": 820,
+      "cy": 560,
+      "cw": 792,
+      "ch": 900,
+      "portrait": true,
+      "text": "秋の笹流ダム前広場。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c5",
+        "s5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es1",
+      "no": "2",
+      "title": "創設事業水道施設概略図",
+      "remark": false,
+      "photo_id": "03-01",
+      "cx": 545,
+      "cy": 6,
+      "cw": 714,
+      "ch": 420,
+      "portrait": false,
+      "text": "明治２２年(1889)の創設時の概要。赤川に簡単な堰（取水場）を設け、導水管を通し沈澱池まで引水。その後、送水管により元町配水池へ送水し、そこから市街地へ給水した。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex1a",
+        "ex2a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es2",
+      "no": "15",
+      "title": "ヘンリー Ｓ．パーマー",
+      "remark": false,
+      "photo_id": "03-04",
+      "cx": 5,
+      "cy": 10,
+      "cw": 110,
+      "ch": 143,
+      "portrait": true,
+      "text": "ヘンリー・スペンサー・パーマーは明治20年(1887)に横浜において我が国最初の近代水道を完成させた。北海道庁長官 岩村通俊の依嘱を受け来函し、函館水道計画書を作成。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es3"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es3",
+      "no": "14",
+      "title": "平井晴二郎",
+      "remark": false,
+      "photo_id": "03-05",
+      "cx": 115,
+      "cy": 55,
+      "cw": 792,
+      "ch": 900,
+      "portrait": true,
+      "text": "平井晴二郎は函館区から創設水道の工事監督を委嘱され､パーマーの計画書をもとに実施設計を行い明治２２年１２月(1889)に日本人の手による最初の上水道を完成させた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es2",
+        "c3x"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es4",
+      "no": "51",
+      "title": "取水場",
+      "remark": false,
+      "photo_id": "04-02",
+      "cx": 111,
+      "cy": 232,
+      "cw": 412,
+      "ch": 468,
+      "portrait": true,
+      "text": "明治２１年(1988)完成。玉石コンクリート造りで、亀田郡赤川村（現 函館市赤川町）を流れる赤川本流（亀田川）付近から水（原水）を取り入れる堰を設けた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2b"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es5",
+      "no": "31",
+      "title": "導水管布設工事",
+      "remark": false,
+      "photo_id": "03-09",
+      "cx": 845,
+      "cy": 617,
+      "cw": 224,
+      "ch": 132,
+      "portrait": false,
+      "text": "明治２２年(1989)通水。取水施設から取り入れた水(原水)を、沈澱池まで送る鋳鉄管。管径12.5インチ（φ313mm）。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es5a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es5a",
+      "no": "30",
+      "title": "導水管用鉄管",
+      "remark": false,
+      "photo_id": "03-07",
+      "cx": 384,
+      "cy": 658,
+      "cw": 234,
+      "ch": 138,
+      "portrait": false,
+      "text": "鋳鉄管。管径12.5インチ（φ313mm）。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es6",
+      "no": "43",
+      "title": "赤川低区沈澱池",
+      "remark": false,
+      "photo_id": "04-03",
+      "cx": 473,
+      "cy": 262,
+      "cw": 377,
+      "ch": 222,
+      "portrait": false,
+      "text": "明治２１年完成(1988)。１面２池のコンクリート造りで、沈澱時間を１２時間とした。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex1d",
+        "ex2d"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es7",
+      "no": "18",
+      "title": "送水管布設工事",
+      "remark": false,
+      "photo_id": "03-08",
+      "cx": 498,
+      "cy": 536,
+      "cw": 311,
+      "ch": 353,
+      "portrait": true,
+      "text": "明治２２年(1989)通水。沈澱池で沈澱された上澄水を、配水池まで送る鋳鉄管。管径12.5インチ（φ313mm）。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "xt-3",
+        "xt-4"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es8",
+      "no": "49",
+      "title": "元町低区配水池",
+      "remark": false,
+      "photo_id": "02-04",
+      "cx": 125,
+      "cy": 100,
+      "cw": 1385,
+      "ch": 815,
+      "portrait": false,
+      "text": "明治２２年(1989)完成。１面１池のコンクリート造りで、送水管から送られて来た水を貯め、配水本管で市中へ配水。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es10"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es9",
+      "no": "50",
+      "title": "元町低区配水池通水",
+      "remark": false,
+      "photo_id": "02-08",
+      "cx": 500,
+      "cy": 370,
+      "cw": 212,
+      "ch": 240,
+      "portrait": true,
+      "text": "明治２２年(1989)８月１８日に通水。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c3x",
+        "f8"
+      ],
+      "option": ""
+    },
+    {
+      "id": "es10",
+      "no": "44",
+      "title": "元町低区配水池番人詰所",
+      "remark": false,
+      "photo_id": "01-01x",
+      "cx": 13,
+      "cy": 40,
+      "cw": 248,
+      "ch": 146,
+      "portrait": false,
+      "text": "明治２１年から２２年の創設事業(1888-1889)により建設された番人詰所。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "f1",
+        "es8"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex1a",
+      "no": "9",
+      "title": "第１次拡張事業水道施設位置図",
+      "remark": false,
+      "photo_id": "03-02",
+      "cx": 357,
+      "cy": 195,
+      "cw": 840,
+      "ch": 494,
+      "portrait": false,
+      "text": "明治２９年(1896)第１次拡張事業水道施設位置図。水需要が急速に伸び、供給量に不足をきたすようになり、新たに高区取水場と沈澱池、低区沈澱池の増設、既設元町配水場の高所に高区配水池を設けた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es1",
+        "ex2a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex1b",
+      "no": "19",
+      "title": "赤川高区取水場",
+      "remark": false,
+      "photo_id": "04-06",
+      "cx": 250,
+      "cy": 299,
+      "cw": 576,
+      "ch": 339,
+      "portrait": false,
+      "text": "第１次拡張事業<br>玉石コンクリート造りで、低区取水場の上流約1.5Ｋｍの亀田川に堰を設けた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [],
+      "option": ""
+    },
+    {
+      "id": "ex1c",
+      "no": "37",
+      "title": "赤川高区沈澱池",
+      "remark": false,
+      "photo_id": "04-07",
+      "cx": 295,
+      "cy": 224,
+      "cw": 357,
+      "ch": 210,
+      "portrait": false,
+      "text": "第１次拡張事業<br>高区取水場の隣接した場所に玉石コンクリート造りの沈澱池１面２池を設けた。沈澱時間は１２時間とした。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2c",
+        "ex2g"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex1d",
+      "no": "28",
+      "title": "赤川低区沈澱池（２号池）",
+      "remark": false,
+      "photo_id": "04-04",
+      "cx": 461,
+      "cy": 321,
+      "cw": 261,
+      "ch": 154,
+      "portrait": false,
+      "text": "第１次拡張事業<br>既設低区沈澱池の北側に玉石コンクリート造りの沈澱池を１面２池を設けた。沈澱時間は１２時間とした。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es6",
+        "ex2d"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2a",
+      "no": "10",
+      "title": "第２次拡張事業水道施設位置図",
+      "remark": false,
+      "photo_id": "03-03",
+      "cx": 700,
+      "cy": 100,
+      "cw": 697,
+      "ch": 410,
+      "portrait": false,
+      "text": "大正６年～１３年(1917-24)<br>人口の増加と１人当たり使用水量の増加により給水量が増えるのに反して送水管の経年変化による通水能力の減退のため、一部施設を廃止し、笹流ダムなどを新設。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es1",
+        "ex1a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2b",
+      "no": "20",
+      "title": "笹流ダム（建設時）",
+      "remark": false,
+      "photo_id": "04-01",
+      "cx": 35,
+      "cy": 35,
+      "cw": 867,
+      "ch": 510,
+      "portrait": false,
+      "text": "大正１２年(1923)に建設された日本初のバットレスダム。水圧を受ける壁面は格子状の補助的な壁（扶壁）で支えられている。亀田川本流と支流笹流川の合流点から約360ｍ上流地点の笹流川をせき止める扶壁式鉄筋コンクリートダム。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2c",
+      "no": "38",
+      "title": "赤川高区緩速ろ過池",
+      "remark": false,
+      "photo_id": "04-08",
+      "cx": 141,
+      "cy": 324,
+      "cw": 382,
+      "ch": 225,
+      "portrait": false,
+      "text": "既設高区沈澱池の南側に隣接して、ろ過池１面１池を新設した。大正１２年(1923)完成。<br>",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2g",
+        "ex1c"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2g",
+      "no": "54",
+      "title": "高区の沈澱池と緩速ろ過池",
+      "remark": false,
+      "photo_id": "04-08",
+      "cx": 322,
+      "cy": 280,
+      "cw": 270,
+      "ch": 307,
+      "portrait": true,
+      "text": "赤川高区の沈澱池と緩速ろ過池。奥が第一次拡張事業で築造された沈澱池、手前が第二次拡張事業で築造された緩速ろ過池。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2c",
+        "ex1c"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2d",
+      "no": "29",
+      "title": "赤川低区緩速ろ過池・配水池",
+      "remark": false,
+      "photo_id": "04-05",
+      "cx": 391,
+      "cy": 151,
+      "cw": 530,
+      "ch": 312,
+      "portrait": false,
+      "text": "（右側：ろ過池）既設低区沈澱池から北東約３５０ｍの丘陵地に、ろ過池１面４池（うち１池予備池）を新設した。（左側：配水池）低区緩速ろ過地の南側に新設、１面２池とし、隔壁に監視廊を設けた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es6",
+        "ex1d"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2e",
+      "no": "25",
+      "title": "元町低区配水池覆蓋工事",
+      "remark": false,
+      "photo_id": "02-05",
+      "cx": 122,
+      "cy": 93,
+      "cw": 129,
+      "ch": 76,
+      "portrait": false,
+      "text": "大正１１年(1922)改造。既設配水池の中央にコンクリート隔壁を設けて１面２池とし、更に、水の汚染と凍結の防止のため鉄筋コンクリート造りのフラットスラブの覆蓋（ふくがい）を設けた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c3x",
+        "f8",
+        "f5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "ex2f",
+      "no": "27",
+      "title": "元町高区配水池覆蓋工事",
+      "remark": false,
+      "photo_id": "02-07",
+      "cx": 53,
+      "cy": 2,
+      "cw": 129,
+      "ch": 76,
+      "portrait": false,
+      "text": "大正１０年(1922)に第２次拡張で鉄筋コンクリート造りのフラットスラブ覆蓋（ふくがい）を設置。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "c4x",
+        "f6"
+      ],
+      "option": ""
+    },
+    {
+      "id": "xf-1",
+      "no": "55",
+      "title": "東本願寺別院",
+      "remark": false,
+      "photo_id": "02-05",
+      "cx": 60,
+      "cy": 2,
+      "cw": 136,
+      "ch": 80,
+      "portrait": false,
+      "text": "配水場の北に位置する東本願寺別院は、大正４年(1915)に竣工した我が国最初の鉄筋コンクリート造建築寺院である。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "ex2e",
+        "xf-2"
+      ],
+      "option": ""
+    },
+    {
+      "id": "xf-2",
+      "no": "5",
+      "title": "東本願寺別院",
+      "remark": false,
+      "photo_id": "02-01",
+      "cx": 560,
+      "cy": 430,
+      "cw": 391,
+      "ch": 230,
+      "portrait": false,
+      "text": "配水場の北に位置する東本願寺別院は、大正４年(1915)に竣工した我が国最初の鉄筋コンクリート造建築寺院である。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "xf-1",
+        "f5"
+      ],
+      "option": ""
+    },
+    {
+      "id": "xt-1",
+      "no": "39",
+      "title": "船舶による鉄管輸送",
+      "remark": false,
+      "photo_id": "03-06",
+      "cx": 40,
+      "cy": 285,
+      "cw": 612,
+      "ch": 360,
+      "portrait": false,
+      "text": "鉄管は蒸気船で海上輸送された。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "xt-2",
+        "es5a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "xt-2",
+      "no": "40",
+      "title": "鉄管の陸揚げ",
+      "remark": false,
+      "photo_id": "03-06",
+      "cx": 330,
+      "cy": 525,
+      "cw": 408,
+      "ch": 240,
+      "portrait": false,
+      "text": "海上輸送された鉄管は､小舟に載せ換えられて陸揚げされた。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "xt-1",
+        "es5a"
+      ],
+      "option": ""
+    },
+    {
+      "id": "xt-3",
+      "no": "17",
+      "title": "馬車",
+      "remark": false,
+      "photo_id": "03-08",
+      "cx": 65,
+      "cy": 340,
+      "cw": 396,
+      "ch": 450,
+      "portrait": true,
+      "text": "馬車による資材輸送。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es7",
+        "xt-4"
+      ],
+      "option": ""
+    },
+    {
+      "id": "xt-4",
+      "no": "16",
+      "title": "トロッコ",
+      "remark": false,
+      "photo_id": "03-08",
+      "cx": 893,
+      "cy": 495,
+      "cw": 231,
+      "ch": 262,
+      "portrait": true,
+      "text": "トロッコを使った作業員の移動。",
+      "link_text": "",
+      "link_url": "",
+      "association": [
+        "es7",
+        "xt-3"
+      ],
+      "option": ""
+    }
+  ]
+}

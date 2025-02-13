@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><link rel="icon" href="data:">
+<title>元町配水場WebCard一覧</title></head><body>
+<h1>元町配水場WebCard一覧</h1>
+
+<main id=main></main>
+<hr>
+DATA: <a href=https://www.city.hakodate.hokkaido.jp/docs/2014022500477/file_contents/WebCard.pdf>Microsoft Word - 函館市元町配水場WebCardについて（改定版）</a>（<a href=https://www.city.hakodate.hokkaido.jp/docs/2016072200055/>函館市オープンデータポータル | 函館市</a>）<br>
+<a href=https://github.com/opendata-motomachi-card/>src and data on GitHub</a><br>
+
+<script type="module">
+import { CSV } from "https://js.sabae.cc/CSV.js";
+import { cr } from "https://js.sabae.cc/cr.js";
+
+const data = await CSV.fetchJSON("./motomachi-card.csv");
+for (const card of data) {
+  const html = `
+    <img src=photo/${card.photo_id}.jpg>
+    <div class=title>${card.title}</div>
+    <div class=description>${card.text}</div>
+    <div class=links>${card.cardsets}</div>
+  `;
+  const div = cr("div");
+  div.innerHTML = html;
+  main.appendChild(div);
+}
+</script>
+<style>
+body {
+  text-align: center;
+  font-family: serif;
+}
+main {
+}
+main > div {
+  display: inline-block;
+  padding: 15px;
+  width: 200px;
+  vertical-align: top;
+  text-align: left;
+}
+main .title {
+  font-weight: bold;
+}
+main .description {
+  font-size: 90%;
+  margin: .5em 0;
+}
+main .cardsets {
+  font-size: 90%;
+}
+main img {
+  width: 100%;
+}
+</style>
+</body></html>

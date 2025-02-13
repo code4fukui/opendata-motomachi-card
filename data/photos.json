@@ -1,0 +1,391 @@
+{
+  "photos": [
+    {
+      "id": "01-01",
+      "title": "元町配水池事務所",
+      "file": "photo/01元町施設/01_元町配水池事務所.jpg",
+      "width": 1120,
+      "height": 844,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-01x",
+      "title": "元町配水池番人詰所",
+      "file": "photo/01元町施設/01x_元町配水池番人詰所.jpg",
+      "width": 267,
+      "height": 206,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-02",
+      "title": "噴水写真",
+      "file": "photo/01元町施設/02_噴水写真.jpg",
+      "width": 1042,
+      "height": 817,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-02a",
+      "title": "噴水上段写真",
+      "file": "photo/01元町施設/02a_噴水上段.jpg",
+      "width": 2126,
+      "height": 1594,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-02b",
+      "title": "噴水下段写真",
+      "file": "photo/01元町施設/02b_噴水下段.jpg",
+      "width": 2126,
+      "height": 1594,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-02c",
+      "title": "噴水創設当時",
+      "file": "photo/01元町施設/02c_噴水創設当時.jpg",
+      "width": 669,
+      "height": 464,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-03",
+      "title": "水飲み場",
+      "file": "photo/01元町施設/03_水飲み場.jpg",
+      "width": 886,
+      "height": 664,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-04",
+      "title": "04_百年桜",
+      "file": "photo/01元町施設/04_百年桜.jpg",
+      "width": 1181,
+      "height": 664,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-05",
+      "title": "展望台",
+      "file": "photo/01元町施設/05_展望台.jpg",
+      "width": 1479,
+      "height": 1109,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-06",
+      "title": "桜咲く元町配水場の噴水",
+      "file": "photo/01元町施設/06_桜咲く元町配水場の噴水.jpg",
+      "width": 1181,
+      "height": 886,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-07",
+      "title": "夏の元町配水場",
+      "file": "photo/01元町施設/07_夏の元町配水場.jpg",
+      "width": 1136,
+      "height": 874,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-08",
+      "title": "冬の元町配水場",
+      "file": "photo/01元町施設/08_冬の元町配水場.jpg",
+      "width": 1147,
+      "height": 869,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "01-09",
+      "title": "旧水道局記章",
+      "file": "photo/01元町施設/09_旧水道局記章.jpg",
+      "width": 1181,
+      "height": 886,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-01",
+      "title": "元町中区配水池",
+      "file": "photo/02元町配水池/01_元町中区配水池.jpg",
+      "width": 1531,
+      "height": 1177,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-02",
+      "title": "元町中区配水場内部",
+      "file": "photo/02元町配水池/02_元町中区配水場内部.jpg",
+      "width": 1063,
+      "height": 709,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-03",
+      "title": "元町高区配水池",
+      "file": "photo/02元町配水池/03_元町高区配水池.jpg",
+      "width": 1530,
+      "height": 1084,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-04",
+      "title": "元町低区配水池",
+      "file": "photo/02元町配水池/04_元町低区配水池.jpg",
+      "width": 1531,
+      "height": 1148,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-04a",
+      "title": "元町低区配水池（レベル調整写真）",
+      "file": "photo/02元町配水池/04a_元町低区配水池.jpg",
+      "width": 1531,
+      "height": 1148,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-05",
+      "title": "元町低区配水池覆蓋工事",
+      "file": "photo/02元町配水池/05_元町低区配水池覆蓋工事.jpg",
+      "width": 258,
+      "height": 243,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-06",
+      "title": "元町高区配水池",
+      "file": "photo/02元町配水池/06_元町高区配水池.jpg",
+      "width": 996,
+      "height": 759,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-07",
+      "title": "元町高区配水池覆蓋工事",
+      "file": "photo/02元町配水池/07_元町高区配水池覆蓋工事.jpg",
+      "width": 200,
+      "height": 134,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "02-08",
+      "title": "元町低区配水池通水",
+      "file": "photo/02元町配水池/08_元町低区配水池通水.jpg",
+      "width": 1057,
+      "height": 823,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-00",
+      "title": "水道施設位置図",
+      "file": "photo/03設置事業/00_水道施設位置図.jpg",
+      "width": 4167,
+      "height": 2749,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-01",
+      "title": "創設時概略図面",
+      "file": "photo/03設置事業/01_創設時概略図面.jpg",
+      "width": 1259,
+      "height": 442,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-02",
+      "title": "第１次拡張事業",
+      "file": "photo/03設置事業/02_第１次拡張事業.jpg",
+      "width": 1222,
+      "height": 948,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-03",
+      "title": "第２次拡張工事",
+      "file": "photo/03設置事業/03_第２次拡張工事.jpg",
+      "width": 1412,
+      "height": 865,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-04",
+      "title": "ヘンリーパーマー",
+      "file": "photo/03設置事業/04_ヘンリーパーマ.jpg",
+      "width": 117,
+      "height": 212,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-05",
+      "title": "平井晴二郎",
+      "file": "photo/03設置事業/05_平井晴二郎.jpg",
+      "width": 1087,
+      "height": 1529,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-06",
+      "title": "鉄管陸揚げ",
+      "file": "photo/03設置事業/06_鉄管陸揚げ.jpg",
+      "width": 1529,
+      "height": 1256,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-07",
+      "title": "鉄管置場",
+      "file": "photo/03設置事業/07_鉄管置場.jpg",
+      "width": 1529,
+      "height": 1244,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-08",
+      "title": "送水管工事",
+      "file": "photo/03設置事業/08_送水管工事.jpg",
+      "width": 1529,
+      "height": 1232,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "03-09",
+      "title": "導水管布設工事",
+      "file": "photo/03設置事業/09_導水管布設工事.jpg",
+      "width": 1530,
+      "height": 1226,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-01a",
+      "title": "笹流ダム",
+      "file": "photo/04赤川配水施設/01a_笹流ダム.png",
+      "width": 709,
+      "height": 533,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-01b",
+      "title": "笹流ダム春",
+      "file": "photo/04赤川配水施設/01b_笹流ダム春.jpg",
+      "width": 2250,
+      "height": 1500,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-01c",
+      "title": "笹流ダム秋",
+      "file": "photo/04赤川配水施設/01c_笹流ダム秋.jpg",
+      "width": 2250,
+      "height": 1500,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-01",
+      "title": "笹流ダム（建造時）",
+      "file": "photo/04赤川配水施設/01_笹流ダム.jpg",
+      "width": 934,
+      "height": 755,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-02",
+      "title": "赤川低区取水堰",
+      "file": "photo/04赤川配水施設/02_赤川低区取水堰.jpg",
+      "width": 680,
+      "height": 842,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-03",
+      "title": "赤川低区沈殿池",
+      "file": "photo/04赤川配水施設/03_赤川低区沈殿池.jpg",
+      "width": 1062,
+      "height": 839,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-04",
+      "title": "赤川低区沈殿池(２号池）",
+      "file": "photo/04赤川配水施設/04_赤川低区沈殿池(２号池).jpg",
+      "width": 981,
+      "height": 761,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-05",
+      "title": "赤川低区緩速ろ過池・配水池",
+      "file": "photo/04赤川配水施設/05_赤川低区緩速ろ過池・配水池.jpg",
+      "width": 950,
+      "height": 680,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-06",
+      "title": "赤川高区取水場",
+      "file": "photo/04赤川配水施設/06_赤川高区取水場.jpg",
+      "width": 1082,
+      "height": 856,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-07",
+      "title": "03_赤川高区沈殿池",
+      "file": "photo/04赤川配水施設/07_赤川高区沈殿池.jpg",
+      "width": 1015,
+      "height": 688,
+      "copyright": "",
+      "option": ""
+    },
+    {
+      "id": "04-08",
+      "title": "工事中の赤川高区緩速ろ過池",
+      "file": "photo/04赤川配水施設/08_工事中の赤川高区緩速ろ過池.jpg",
+      "width": 958,
+      "height": 751,
+      "copyright": "",
+      "option": ""
+    }
+  ]
+}
