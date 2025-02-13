@@ -8,3 +8,7 @@
 ## opendata
 
 - [motomachi-card.csv](motomachi-card.csv) made from [元町配水場WEBCard](https://www.city.hakodate.hokkaido.jp/docs/2016072200055/) 公立はこだて未来大学開発 函館市企業局協力
+
+## demo
+
+- [元町配水場WebCard一覧](https://code4fukui.github.io/opendata-motomachi-card/)
